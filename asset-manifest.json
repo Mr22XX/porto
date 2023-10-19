@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/porto/static/css/main.861711fe.css",
-    "main.js": "/porto/static/js/main.dac8040c.js",
+    "main.css": "/porto/static/css/main.6eaa9b90.css",
+    "main.js": "/porto/static/js/main.62861451.js",
     "static/js/787.d253c66c.chunk.js": "/porto/static/js/787.d253c66c.chunk.js",
     "static/media/s2.png": "/porto/static/media/s2.714b131c1f365baaf0a0.png",
     "static/media/s1.png": "/porto/static/media/s1.faebdb8d2b77b796137c.png",
@@ -11,12 +11,12 @@
     "static/media/quran.jpg": "/porto/static/media/quran.0df87dd486cfd009406b.jpg",
     "static/media/logo.png": "/porto/static/media/logo.7515bd85083d8e611d76.png",
     "index.html": "/porto/index.html",
-    "main.861711fe.css.map": "/porto/static/css/main.861711fe.css.map",
-    "main.dac8040c.js.map": "/porto/static/js/main.dac8040c.js.map",
+    "main.6eaa9b90.css.map": "/porto/static/css/main.6eaa9b90.css.map",
+    "main.62861451.js.map": "/porto/static/js/main.62861451.js.map",
     "787.d253c66c.chunk.js.map": "/porto/static/js/787.d253c66c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.861711fe.css",
-    "static/js/main.dac8040c.js"
+    "static/css/main.6eaa9b90.css",
+    "static/js/main.62861451.js"
   ]
 }
